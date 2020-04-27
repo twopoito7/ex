@@ -1,0 +1,25 @@
+{
+  "name": "menu",
+  "version": "0.1.0",
+  "homepage": "https://github.com/twopoito7/ex",
+  "private": true,
+  "dependencies": {
+    "airtable": "^0.5.6",
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1",
+    "react-scripts": "1.1.5",
+    "styled-components": "5.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "env": {
+    "REACT_APP_AIRTABLE_API_KEY": "keyLALeAqV9hNMub2",
+    "REACT_APP_AIRTABLE_BASE_ID": "appfCLIYr4fB4ITwO"
+  }
+}
