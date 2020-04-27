@@ -1,7 +1,7 @@
 {
   "name": "ecommerce-shopping-cart",
   "version": "0.1.0",
-  "homepage": "https://csb-bw6uw.twopoito7.now.sh",
+  "homepage": "https://github.com/twopoito7/ex",
 
   "dependencies": {
     "airtable": "^0.5.6",
