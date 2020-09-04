@@ -4,7 +4,7 @@
   "homepage": "https://github.com/twopoito7/ex",
 
   "dependencies": {
-    "airtable": "^0.5.6",
+    "airtable": "^0.7.2",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
     "react-scripts": "1.1.5",
